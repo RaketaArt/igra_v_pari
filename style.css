@@ -10,7 +10,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   overflow-y: hidden;
-  
+  background-image: url(Фон.png);
 }
 
 /* Обертка всего контента игры */
